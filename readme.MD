@@ -15,8 +15,9 @@ Creación de proyecto: [https://vitejs.dev/guide/#trying-vite-online](https://vi
 ## Deploy con github-pages
 - npm i gh-pages
 - En vite.config.js, en base colocar '/<REPO>/'
-- crear archivo 'deploy.sh' y copiar contenido de la guía deploy vite, cambiar las partes resaltadas
-- ejecutar el comando "gh-pages -d build"
+- Crear archivo 'deploy.sh' y copiar contenido de la guía deploy vite, cambiar las partes resaltadas
+- Ejecutar npm run build
+- Ejecutar el comando "gh-pages -d dist"
 
 Guía gh-pages: [https://www.npmjs.com/package/gh-pages](https://www.npmjs.com/package/gh-pages) 
 
