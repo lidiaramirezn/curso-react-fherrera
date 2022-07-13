@@ -1,7 +1,7 @@
 # Conocimientos aplicados
 
 ## React
-Guía: https://es.reactjs.org/docs/getting-started.html
+Guía: [https://es.reactjs.org/docs/getting-started.html](https://es.reactjs.org/docs/getting-started.html)
 
 - Componentes
 - Props
@@ -9,4 +9,15 @@ Guía: https://es.reactjs.org/docs/getting-started.html
 - useState - hook
 
 ## Vite
-- Creación de proyecto: https://vitejs.dev/guide/#trying-vite-online
+Creación de proyecto: [https://vitejs.dev/guide/#trying-vite-online](https://vitejs.dev/guide/#trying-vite-online)
+
+
+## Deploy con github-pages
+- npm i gh-pages
+- En vite.config.js, en base colocar '/<REPO>/'
+- crear archivo 'deploy.sh' y copiar contenido de la guía deploy vite, cambiar las partes resaltadas
+- ejecutar el comando "gh-pages -d build"
+
+Guía gh-pages: [https://www.npmjs.com/package/gh-pages](https://www.npmjs.com/package/gh-pages) 
+
+Guía deploy vite - ghpages: [https://vitejs.dev/guide/static-deploy.html#github-pages](https://vitejs.dev/guide/static-deploy.html#github-pages)
