@@ -22,3 +22,6 @@ Creación de proyecto: [https://vitejs.dev/guide/#trying-vite-online](https://vi
 Guía gh-pages: [https://www.npmjs.com/package/gh-pages](https://www.npmjs.com/package/gh-pages) 
 
 Guía deploy vite - ghpages: [https://vitejs.dev/guide/static-deploy.html#github-pages](https://vitejs.dev/guide/static-deploy.html#github-pages)
+
+##  Página desplegada: 
+>[https://lidiaramirezn.github.io/curso-react-fherrera/](https://lidiaramirezn.github.io/curso-react-fherrera/)
