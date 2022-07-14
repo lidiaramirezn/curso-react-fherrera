@@ -32,6 +32,13 @@ Guía deploy vite - ghpages: [https://vitejs.dev/guide/static-deploy.html#github
 - Para ejecutar: `npm run test`
 - Para el caso de usar pruebas con fetch instalar dependecia: `npm install --save-dev whatwg-fetch` 
 
+## Test React - Jest - Testing Library
+- Instalar Testing library `npm install --save-dev @testing-library/react`
+- Instalar `npm install --save-dev jest-environment-jsdom`
+- Configurar jest.config
+- Instalar `npm i --save-dev @babel/preset-react`
+- Configurar babel.config
+
 Guía Jest: [https://jestjs.io/](https://jestjs.io/)
 
 ##  Página desplegada: 
