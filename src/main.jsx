@@ -1,11 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import './index.css'
-import { FirstApp } from './first-app/FirstApp';
-import './counter.css';
+import { GifExpertApp } from './gift-expert-app/GifExpertApp'
+import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <FirstApp title="Hola Mundo"/>
+    <GifExpertApp />
   </React.StrictMode>
 )
