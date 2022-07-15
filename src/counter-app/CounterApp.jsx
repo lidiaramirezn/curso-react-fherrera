@@ -20,7 +20,7 @@ export const CounterApp = ({ value }) => {
 
   return (
     <>
-      <h1>Contador</h1>
+      {/* <h3>Contador</h3> */}
       <p>{ counter }</p>
 
       <button onClick= { handleAdd }> +1 </button>

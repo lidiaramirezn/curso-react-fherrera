@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { GifExpertApp } from './gift-expert-app/GifExpertApp'
+import { ProjectsApp } from './projectsApp'
 import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <GifExpertApp />
+    <ProjectsApp />
   </React.StrictMode>
 )
